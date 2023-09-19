@@ -1,1 +1,1 @@
-# Preact app with Jest and Testing Library libraries
+# Preact app with Jest and Testing Library package
